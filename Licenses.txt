@@ -1,0 +1,5 @@
+Everything inside the assets/aether/sounds folder along with the file at assets/aether/textures/blocks/miscellaneous/aether_portal.png are not made by me, and arefrom the Aether II: Highlands and are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Everything else is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+https://creativecommons.org/licenses/by-nc-nd/4.0/
