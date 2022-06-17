@@ -1,6 +1,8 @@
 Everything inside the assets/aether/sounds folder along with the files
 assets/aether/textures/block/miscellaneous/aether_portal.png,
 assets/aether/textures/item/miscellaneous/aether_portal_frame_inside.png,
+assets/aether/textures/block/natural/white_flower.png,
+assets/aether/textures/block/natural/pink_aercloud.png,
 assets/aether/textures/block/natural/blue_aercloud.png, and
 assets/aether/textures/block/natural/golden_aercloud.png
 are not made by me, and arefrom the Aether II: Highlands,
