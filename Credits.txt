@@ -1,0 +1,9 @@
+Gilded Games (The Aether II: Highlands): Aether Portal texture and Sounds
+
+Refined Mods (Refined Pipes): the models from older refined pipes versions (modified)
+
+SinKillerJ (ProjectE): The sound of transmuting a block with the Philosopher's stone (modified)
+
+Aerodd and BrianIsBro (Jappafied Aether): Several textures for the Aether Mod (some modified, some rearranged)
+
+All other assets were made by me (Zepalesque). Some were based on other textures, but other than shape, I made them from scratch
