@@ -21,5 +21,38 @@
     "sounds": [
       "aether:portal/trigger"
     ]
+  },
+  "music.aether": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "aether:music/aether1",
+        "stream": true
+      },
+      {
+        "name": "aether:music/aether2",
+        "stream": true
+      },
+      {
+        "name": "aether:music/aether3",
+        "stream": true
+      },
+      {
+        "name": "aether:music/aether4",
+        "stream": true
+      },
+      {
+        "name": "aether:music/aether5",
+        "stream": true
+      },
+      {
+        "name": "aether:music/night1",
+        "stream": true
+      },
+      {
+        "name": "aether:music/night2",
+        "stream": true
+      }
+    ]
   }
 }
