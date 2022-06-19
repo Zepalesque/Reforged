@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "aether:block/locked_carved_stone"
+    }
+  }
+}
