@@ -46,6 +46,10 @@
         "stream": true
       },
       {
+        "name": "aether:music/aether6",
+        "stream": true
+      },
+      {
         "name": "aether:music/night1",
         "stream": true
       },
@@ -54,5 +58,30 @@
         "stream": true
       }
     ]
-  }
+  },
+	"entity.cockatrice.ambient": {
+		"replace": true,
+		"sounds": [
+			"aether:entity/cockatrice/say1",
+			"aether:entity/cockatrice/say2"
+		],
+		"subtitle": "subtitles.entity.cockatrice.ambient"
+	},
+	"entity.cockatrice.death": {
+		"replace": true,
+		"sounds": [
+			"aether:entity/cockatrice/hurt1",
+			"aether:entity/cockatrice/hurt2"
+		],
+		"subtitle": "subtitles.entity.cockatrice.death"
+	},
+	"entity.cockatrice.hurt": {
+		"replace": true,
+		"sounds": [
+			"aether:entity/cockatrice/hurt1",
+			"aether:entity/cockatrice/hurt2"
+		],
+		"subtitle": "subtitles.entity.cockatrice.hurt"
+	}
+}
 }
