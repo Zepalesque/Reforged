@@ -1,4 +1,5 @@
 {
+  "aether.pro_tips.line.aether.golden_oak_amber": "Amberoot trees yield valuable Golden Amber in their logs.",
   "block.aether.locked_angelic_stone": "Ascended Angelic Stone",
   "block.aether.locked_carved_stone": "Divine Carved Stone",
   "block.aether.locked_hellfire_stone": "Infernal Hellfire Stone",
@@ -7,6 +8,14 @@
   "block.aether.locked_sentry_stone": "Divine Sentry Stone",
   "block.aether.white_flower": "White Rose",
   "block.aether.pink_aercloud": "Purple Aercloud",
-  "block.aether.purple_flower": "Cloudbloom"
+  "block.aether.purple_flower": "Cloudbloom",
+  "block.aether.golden_oak_leaves": "Amberoot Leaves",
+  "block.aether.golden_oak_log": "Amberoot Log",
+  "block.aether.golden_oak_sapling": "Amberoot Sapling",
+  "block.aether.golden_oak_wood": "Amberoot Wood",
+  "lore.block.aether.golden_oak_leaves": "These golden Leaves generate with Amberoot trees. They spawn golden particles in a radius of 5 blocks. They yield Amberoot Saplings when decayed.",
+  "lore.block.aether.golden_oak_sapling": "These large saplings when planted will grow into huge Amberoot trees! You can use Bone Meal to speed up the process.",
+  "lore.item.aether.golden_amber": "These round golden orbs can be obtained by mining Amberoot Logs with a Gravitite Axe. Their main purpose is to craft Golden Darts, and Dart Shooters.",
+  "lore.item.aether.gravitite_axe": "Part of Aether's best tool tier, this Axe not only can make wood blocks float, but it can mine Amberoot logs for Golden Amber!"
 
 }
