@@ -5,7 +5,7 @@ https://creativecommons.org/licenses/by-nc/3.0/
 Everything else inside the assets/aether/sounds folder along with the files:
 assets/aether/textures/block/miscellaneous/aether_portal.png,
 assets/aether/textures/item/miscellaneous/aether_portal_frame_inside.png*
-are not made by me, and are from the Aether II: Highlands, are owned by GildedGames (the Minecraft modding team, not the other one)
+are from the Aether II: Highlands, are owned by GildedGames (the Minecraft modding team, not the other one)
 and are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -37,7 +37,7 @@ item/food/[all]
 item/materials/swet_ball.png
 item/miscellaneous/skyroot_door.png
 models/armor/phoenix_[all].png**
-Are all from / based on textures from the Jappafied Aethers resource pack,
+are all from / based on textures from the Jappafied Aethers resource pack,
 are owned by and have all rights reserved to Aerod and BrianIsBro, and were used in this resource pack with permission.
 
 *: minimal edits
