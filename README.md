@@ -28,6 +28,8 @@ The Aether (A few small changes other than just changing it to be like the Aethe
 
 ProjectE (A few small changes other than just changing it to be like Equivalent Exchange III)
 
+Magnum Torch (Textures updated to match Minecraft's new artstyle from 1.14, also please note that this is NOT the Torchmaster mod)
+
 ---
 ## IMPORTANT FOR IF YOU ARE USING THE AETHER MOD:
 
