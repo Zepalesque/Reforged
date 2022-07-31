@@ -16,6 +16,7 @@
   "lore.block.aether.golden_oak_leaves": "These golden Leaves generate with Amberoot trees. They spawn golden particles in a radius of 5 blocks. They yield Amberoot Saplings when decayed.",
   "lore.block.aether.golden_oak_sapling": "These large saplings when planted will grow into huge Amberoot trees! You can use Bone Meal to speed up the process.",
   "lore.item.aether.golden_amber": "These round golden orbs can be obtained by mining Amberoot Logs with a Gravitite Axe. Their main purpose is to craft Golden Darts, and Dart Shooters.",
-  "lore.item.aether.gravitite_axe": "Part of Aether's best tool tier, this Axe not only can make wood blocks float, but it can mine Amberoot logs for Golden Amber!"
+  "lore.item.aether.gravitite_axe": "Part of Aether's best tool tier, this Axe not only can make wood blocks float, but it can mine Amberoot logs for Golden Amber!",
+  "item.aether.swet_ball": "Swet Jelly"
 
 }
