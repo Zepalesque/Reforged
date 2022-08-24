@@ -43,8 +43,7 @@ https://www.curseforge.com/minecraft/mc-mods/magnum-torch-forge
 ## IMPORTANT FOR IF YOU ARE USING THE AETHER MOD:
 
 If you are using this with the Aether mod, I HIGHLY, HIGHLY recommend that you use the resource pack  
-'Jappafied Aether(s)' by Aerod and BrianIsBro **(and the 1.19 textures addon, which can be found in the /packs folder of _JAPPAFIED AETHERS_ (not Reforged), which is in the same folder as the assets folder).**
-
+'Jappafied Aether(s)' by Aerod and BrianIsBro.
 Please note that the version for Minecraft 1.19 (which also works in 1.18) has not been released on Curseforge yet, but can be downloaded from their Github page:
 
 https://github.com/AerodDev/Jappafied-Aethers
