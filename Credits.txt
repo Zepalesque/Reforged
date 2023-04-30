@@ -1,11 +1,17 @@
-Gilded Games (The Aether II: Highlands): Aether Portal texture and Sounds, and the changed Aether musics
+Gilded Games (The Aether II: Highlands): Aether Portal texture and Sounds, various Aether II: Highlands Mob Sounds
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Emile van Kreiken: Additional Aether Musics
+https://creativecommons.org/licenses/by-nc/3.0/
 
 Refined Mods (Refined Pipes): the models from older refined pipes versions (modified)
+https://github.com/refinedmods/refinedpipes/blob/develop/LICENSE.md
 
 SinKillerJ (ProjectE): The sound of transmuting a block with the Philosopher's stone (modified)
+https://github.com/sinkillerj/ProjectE/blob/mc1.18.x/LICENSE
 
 Aerodd and BrianIsBro (Jappafied Aether): Several textures for the Aether Mod (some modified, some rearranged)
+All rights reserved to Aerod and BrianIsBro (used by Zepalesque with permission)
 
-All other assets were made by me (Zepalesque). Some were based on other textures, but other than shape, I made them from scratch
-
-For full Licensing and specific credits, please see Licenses.txt
+Hopefully I didn't miss anyone else's content! As long as I didn't, all other assets were made by me (although some general shapes may be based on existing textures, for instance the Crystallite Sword)
+https://creativecommons.org/licenses/by-nc-nd/4.0/

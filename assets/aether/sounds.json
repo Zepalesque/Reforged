@@ -1,4 +1,35 @@
 {
+  "block.chest_mimic.open": {
+    "replace": true,
+    "sounds": [
+      "aether:entity/mimic/awake"
+    ],
+    "subtitle": "subtitles.aether.block.chest_mimic.open"
+  },
+  "entity.sentry.death": {
+    "replace": true,
+    "sounds": [
+      "aether:entity/sentry/death"
+    ],
+    "subtitle": "subtitles.aether.entity.sentry.death"
+  },
+  "entity.sentry.hurt": {
+    "replace": true,
+    "sounds": [
+      "aether:entity/sentry/hurt1",
+      "aether:entity/sentry/hurt2"
+    ],
+    "subtitle": "subtitles.aether.entity.sentry.hurt"
+  },
+  "entity.sentry.jump": {
+    "replace": true,
+    "sounds": [
+      "aether:entity/sentry/say1",
+      "aether:entity/sentry/say2",
+      "aether:entity/sentry/say3"
+    ],
+    "subtitle": "subtitles.aether.entity.sentry.jump"
+  },
   "block.aether_portal.ambient": {
     "subtitle": "subtitles.block.aether_portal.ambient",
     "replace": true,
@@ -8,7 +39,7 @@
         "attenuation_distance": 10
       }
     ]
-  },
+  },	
   "block.aether_portal.travel": {
     "replace": true,
     "sounds": [
@@ -75,13 +106,35 @@
 		],
 		"subtitle": "subtitles.entity.cockatrice.death"
 	},
-	"entity.cockatrice.hurt": {
-		"replace": true,
-		"sounds": [
-			"aether:entity/cockatrice/hurt1",
-			"aether:entity/cockatrice/hurt2"
-		],
-		"subtitle": "subtitles.entity.cockatrice.hurt"
-	}
-}
+  "entity.cockatrice.hurt": {
+    "replace": true,
+    "sounds": [
+      "aether:entity/cockatrice/hurt1",
+      "aether:entity/cockatrice/hurt2"
+    ],
+    "subtitle": "subtitles.entity.cockatrice.hurt"
+  },
+  "entity.moa.ambient": {
+    "replace": true,
+    "sounds": [
+      "aether:entity/moa/say1",
+      "aether:entity/moa/say2"
+    ],
+    "subtitle": "subtitles.entity.moa.ambient"
+  },
+  "entity.moa.death": {
+    "replace": true,
+    "sounds": [
+      "aether:entity/moa/hurt"
+    ],
+    "subtitle": "subtitles.entity.moa.death"
+  },
+
+  "entity.moa.hurt": {
+    "replace": true,
+    "sounds": [
+      "aether:entity/moa/hurt"
+    ],
+    "subtitle": "subtitles.entity.moa.hurt"
+  }
 }
