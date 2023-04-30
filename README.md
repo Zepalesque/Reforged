@@ -6,6 +6,7 @@ A Minecraft Resource Pack
 ### ABOUT
 
 This resource pack changes several mods in Minecraft 1.18 and 1.19 to be more like similar mods from 1.7 and 1.12.
+It is not necessarily limited to those versions, however, and should work with many recent minecraft versions, depending on any asset structure changes in the mods
 
 The Aether -> The Aether II: Genesis of the Void (Portal + Sounds, Music (Although it is not time-dependent), White Flowers and several other changes, like the bronze dungeon stones and Slider boss)  
 https://github.com/Gilded-Games/The-Aether
@@ -44,18 +45,16 @@ https://www.curseforge.com/minecraft/mc-mods/magnum-torch-forge
 
 If you are using this with the Aether mod, I HIGHLY, HIGHLY recommend that you use the resource pack  
 'Jappafied Aether(s)' by Aerod and BrianIsBro.
-Please note that the version for Minecraft 1.19 (which also works in 1.18) has not been released on Curseforge yet, but can be downloaded from their Github page:
-
 https://github.com/AerodDev/Jappafied-Aethers
 
-Also, I recommend using the Tallgrass config and Pink Aercloud config when using this resource pack with the Aether.
+If you use the Deep Aether and/or Lost Content addons, some small tweaks will be done to them as well.
 
 Additionally, I am currently developing an addon mod for the Aether which will include most of this resource pack.
 
 --- 
 ### COPYRIGHT / LICENSING:
 
-The full licensing for this resource pack can be found in the Licenses.txt file,
-however all assets _THAT WERE MADE BY ME_ (Zepalesque) are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+The licensing for this resource pack can be found in the Credits.txt file,
+however any and all assets _that I made_ are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
